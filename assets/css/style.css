@@ -11,7 +11,15 @@ p {
     text-align: center;
 }
 
-h1, h3 {
+h1  {
+    font-size: 20pt;
     font-weight: bold;
     text-align: center;
+    margin: 5px;
+}
+ h3 {
+     font-size: 15pt;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px;
 }
